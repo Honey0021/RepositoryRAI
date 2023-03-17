@@ -9,7 +9,7 @@ public class RESTAPIAssuredTest {
 	
 		System.out.println("PostJira");
 		
-		System.out.println("this line is changed by x person in develop branch ");
+		System.out.println("this line is changed by asian person in develop branch ");
 		
 	}
 	

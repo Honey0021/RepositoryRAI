@@ -8,6 +8,7 @@ public class SeleniumJavaTest {
 	public void WebBrowser() {
 	
 		System.out.println("WebBrowser");
+		System.out.println("WebBrowser");System.out.println("Asian person");
 		
 	}
 	
